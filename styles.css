@@ -5,7 +5,7 @@
 }
 
 body {
-  background-color: #854426;
+  background-color: #e6885c;
   color: #000000;
   font-family: 'Press Start 2P', sans-serif;
   height: 100vh;
@@ -17,7 +17,7 @@ body {
 .btn {
   border: 0;
   background-color: #523400;
-  color: #ac4f02;
+  color: #636262;
   padding: 15px 20px;
   font-family: inherit;
   cursor: pointer;
