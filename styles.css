@@ -5,8 +5,8 @@
 }
 
 body {
-  background-color: #e6885c;
-  color: #000000;
+  background-color: rgb(87, 132, 87);
+  color: #815a5a;
   font-family: 'Press Start 2P', sans-serif;
   height: 100vh;
   overflow: hidden;
@@ -16,8 +16,8 @@ body {
 
 .btn {
   border: 0;
-  background-color: #523400;
-  color: #636262;
+  background-color: #8b7b5f;
+  color: #000000;
   padding: 15px 20px;
   font-family: inherit;
   cursor: pointer;
@@ -52,7 +52,7 @@ body {
 }
 
 a {
-  color: #cd9f21;
+  color: #69784e;
 }
 
 h1 {
@@ -75,8 +75,8 @@ h1 {
 
 .choose-insect-btn {
   background-color: transparent;
-  border: 2px solid #000000;
-  color: #948b04;
+  border: 2px solid #ffffff;
+  color: #6f818e;
   cursor: pointer;
   font-family: inherit;
   width: 150px;
@@ -84,12 +84,12 @@ h1 {
 }
 
 .choose-insect-btn:hover {
-  background-color: rgb(75, 110, 18);
-  color: #9c5032;
+  background-color: rgb(154, 143, 60);
+  color: #000000;
 }
 
 .choose-insect-btn:active {
-  background-color: rgba(2, 150, 145, 0.7);
+  background-color: rgba(171, 172, 172, 0.7);
 }
 
 .screen.up {
